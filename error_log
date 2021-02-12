@@ -1,0 +1,17 @@
+[19-Sep-2020 20:27:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Master.php on line 748
+[19-Sep-2020 20:27:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home2/younguxc/public_html/saloon_booking/system/core/Common.php on line 685
+[23-Sep-2020 05:23:10 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:30:01 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:30:01 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:30:01 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:41:23 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:42:30 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:42:38 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:44:05 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:44:05 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[23-Sep-2020 05:54:57 UTC] PHP Fatal error:  Cannot redeclare Client::deleteProductById() in /home2/younguxc/public_html/saloon_booking/application/controllers/Api/Client.php on line 1096
+[28-Sep-2020 11:07:27 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/younguxc/public_html/saloon_booking/application/models/MasterModel.php on line 412
+[28-Sep-2020 11:23:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/younguxc/public_html/saloon_booking/application/models/MasterModel.php on line 414
+[28-Sep-2020 11:24:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/younguxc/public_html/saloon_booking/application/models/MasterModel.php on line 413
+[04-Feb-2021 10:48:48 UTC] PHP Fatal error:  Cannot redeclare Welcome::shopBookings() in /home2/younguxc/public_html/saloon_booking/application/controllers/Welcome.php on line 110
+[04-Feb-2021 10:49:10 UTC] PHP Fatal error:  Cannot redeclare Welcome::shopBookings() in /home2/younguxc/public_html/saloon_booking/application/controllers/Welcome.php on line 110
